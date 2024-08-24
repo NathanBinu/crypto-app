@@ -20,3 +20,5 @@
 - **Milestone 2**: Integrate the CoinGecko API for live data fetching.
 - **Milestone 3**: Implement search functionality.
 - **Milestone 4**: Add real-time updates and improve styling.
+- **Milestone 5**: Implement user authentication for personalized features.
+
